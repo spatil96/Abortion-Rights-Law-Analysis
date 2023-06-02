@@ -6,8 +6,8 @@ On the dashboard, we can also see the real-time count of the Tweets, Reddit, and
 
 ## Team - Report-Fantastic_5
 
-* Jigeesha Jain, jjain1@binghamton.edu
 * Sumeet Patil, spatil38@binghamton.edu
+* Jigeesha Jain, jjain1@binghamton.edu
 * Supriya Patil, spatil33@binghamton.edu
 * Shriya Khatri, skhatri3@binghamton.edu
 
